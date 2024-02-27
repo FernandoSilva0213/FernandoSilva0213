@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Fernando Silva  ✋
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nando-silva)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https:www.linkedin.com/in/nando-silva)
 
 ![Fernando Silva0213 GitHub stats](https://github-readme-stats.vercel.app/api?username=FernandoSilva0213&show_icons=true&theme=dark)
 
